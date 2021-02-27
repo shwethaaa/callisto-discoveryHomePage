@@ -1,6 +1,7 @@
 /* eslint-disable import/no-anonymous-default-export */
 import React from "react";
 import Image from "./Image";
+import 'bootstrap/dist/css/bootstrap.css';
 
 const logo =
     "https://static.wikia.nocookie.net/logopedia/images/b/b9/Discovery_Plus_Icon.png";

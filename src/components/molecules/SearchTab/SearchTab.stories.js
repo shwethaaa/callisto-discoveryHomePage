@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import SearchTab from './SearchTab';
+import 'bootstrap/dist/css/bootstrap.css';
 
 export default {
     title: 'molecules/SearchTab',
